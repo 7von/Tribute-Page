@@ -1,0 +1,21 @@
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin: 0px 14px 0px 14px;
+    background-color: lightslategray;
+}
+
+img {
+    position: relative;
+    padding: 0.5px;
+    background-color: grey;
+}
+
+body {
+    position: relative;
+
+}
+
+#img-div {
+    margin: auto;
+}
