@@ -1,18 +1,21 @@
+#main{
+    background-color: lightslategray;
+}
 #title{
     font-size: 30px;
     text-align: center;
-    margin: 0px 3px 0px 3px;
-    background-color: lightslategray;
+    
+    
 }
 
 #img-div {
     position: relative;
     padding: 0.5px;
-    background-color: grey;
+    background-color: whitesmoke;
 }
 #img {
     width: 100%;
-    height; auto;
+    height: auto;
     max-width: 750px;
     margin-left: auto;
     margin-right: auto;
